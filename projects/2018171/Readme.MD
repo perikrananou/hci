@@ -8,6 +8,7 @@
 
 Εργασία: 1η
 Εκτελέσιμο link: https://asciinema.org/a/13AiEkdFpf3Zdjuu9NadTUhDW
+Προφίλ στο github: https://github.com/perikrananou
 
 Δεν είχα κάνει προφίλ στο asciinema (δεν έλεγε κάτι στις οδηγίες ) με αποτέλεσμα να διαγραφεί η εργασία μου μετά από μια εβδομάδα 
 
